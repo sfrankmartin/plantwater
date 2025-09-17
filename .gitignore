@@ -13,6 +13,9 @@
 # Dev DB
 /prisma/dev.db
 
+# Dev image uploads folder
+/public/uploads/plants/
+
 # testing
 /coverage
 
