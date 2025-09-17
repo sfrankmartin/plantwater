@@ -1,5 +1,5 @@
 /**
- * Comprehensive DoS Protection Middleware
+ * DoS Protection Middleware
  * 
  * Protects against:
  * - Request flooding (rate limiting)
